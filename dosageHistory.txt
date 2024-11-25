@@ -1,0 +1,24 @@
+Date: 2024-11-25 21:17:50
+Medicine: Paracetamol
+Dose: 13.33 mg per interval
+Age: 30
+Weight: 20.00 kg Height: 50.00 cm
+Type: Geriatric
+______________________
+
+Date: 2024-11-25 21:17:50
+Medicine: Paracetamol
+Dose: 13.33 mg per interval
+Age: 30
+Weight: 20.00 kg Height: 50.00 cm
+Type: Geriatric
+______________________
+
+Date: 2024-11-25 21:17:51
+Medicine: Paracetamol
+Dose: 13.33 mg per interval
+Age: 30
+Weight: 20.00 kg Height: 50.00 cm
+Type: Geriatric
+______________________
+
